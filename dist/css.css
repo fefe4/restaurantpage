@@ -1,0 +1,32 @@
+.frontImage {
+  position:fixed;
+  width: 100vw;
+	height:auto;
+	min-height: 100%;
+	top: 0;
+  left: 0;
+}
+
+.titulo {
+	font-size: 40px;
+	position:absolute;
+	font-style: oblique;
+	font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+	display:flex;
+	width:100%;
+	justify-content: center;
+	color:wheat;
+	-webkit-text-stroke: 1px black;
+}
+.quote {
+	font-size: 23px;
+	position:absolute;
+	bottom: 0%;
+	right:4%;
+	left :76%;
+	font-style: italic;
+	font-weight: 800;
+	color:rgba(122, 26, 19, 0.897);
+	
+	font-family: cursive;
+}
