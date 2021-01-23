@@ -10,8 +10,7 @@ title.textContent = "Fefe's Winery";
 content.appendChild (title);
 const quote = document.createElement ('p');
 quote.classList.add("quote");
-quote.textContent = "It is the wine that leads me on  the wild wine \n that sets the wisest man to sing \n at the top of his lungs, \n laugh like a fool – it drives the \n man to dancing... it even \n tempts him to blurt out stories \n better never told. \n ― Homer, The Odyssey";
+quote.textContent = "It is the wine that leads me on the wild wine that sets the wisest man to sing at the top of his lungs, laugh like a fool – it drives the man to dancing... it even tempts him to blurt out stories better never told. ― Homer, The Odyssey";
 content.appendChild (quote);
-return 3;
 }
 export default imgandtext1

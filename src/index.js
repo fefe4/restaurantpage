@@ -1,4 +1,3 @@
-import {imgandtext1} from './imgandtext' ;
-imgandtext1();
-
+import {imgandtext1} from "./imgandtext";
+imgandtext1 ();
 
